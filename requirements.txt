@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+deap
+transformers
+torch
+jupyterlab
